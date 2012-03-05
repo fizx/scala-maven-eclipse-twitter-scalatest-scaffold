@@ -1,0 +1,12 @@
+Setup instructions:
+
+1. Get a fresh build of Eclipse Indigo for Java
+2. Install M2Eclipse
+3. Install Scala-IDE for 2.8
+4. Edit the pom.xml here to make sense for you.
+5. File > Import > Existing Maven Project > this folder
+6. Restart Eclipse
+
+Thanks to:
+- http://whileonefork.blogspot.com/2011/06/beginning-scala-building-project-with.html
+- http://www.valleyprogramming.com/blog/2011/scala-maven-eclipse-scalatest-colorado
