@@ -1,8 +1,8 @@
 Setup instructions:
 
 1. Get a fresh build of Eclipse Indigo for Java
-2. Install M2Eclipse
-3. Install Scala-IDE for 2.8
+2. Install M2Eclipse - http://download.eclipse.org/technology/m2e/releases
+3. Install Scala-IDE for 2.8 - http://download.scala-ide.org/releases-28/stable/site
 4. Edit the pom.xml here to make sense for you.
 5. File > Import > Existing Maven Project > this folder
 6. Restart Eclipse
